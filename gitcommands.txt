@@ -1,1 +1,7 @@
 git init -> to initialize git
+
+git add -A -> to add file to staging medium
+
+git commit -m"message"
+
+git status
